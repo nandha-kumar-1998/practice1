@@ -6,4 +6,4 @@ console.log(2);
 console.log(3);
 
 console.log("kay");
-cnosole.log('finally');
+cnosole.log('found');
